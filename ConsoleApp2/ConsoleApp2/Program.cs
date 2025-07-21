@@ -1,4 +1,4 @@
-int Count = Convert.ToInt32(Console.ReadLine());
+﻿int Count = Convert.ToInt32(Console.ReadLine());
 int IsSimple = 0;   
 while (Count > 0)
 {
